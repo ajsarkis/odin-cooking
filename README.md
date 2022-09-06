@@ -1,1 +1,2 @@
 # odin-cooking
+The purpose of this project is to build a recipe website with multiple pages which utilizes the html skills I've learned. Skills include ordered/unordered lists, absolute/relative links, meta tags, headings, and page structure. 
