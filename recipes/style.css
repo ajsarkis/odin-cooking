@@ -1,0 +1,30 @@
+* {
+    font-family: Helvetica, Tahoma, sans-serif;
+    background-color: beige;
+    margin-bottom: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+}
+
+img {
+    width: 700px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home, a {
+    font-size: 24px;
+    font-family: cursive;
+    list-style: none;
+    margin: 10px 0;
+    text-decoration: none;
+    color: black;
+}
+#details {
+    text-align: center;
+}
